@@ -1,0 +1,26 @@
+{
+  "name": "virtual-headset-project",
+  "version": "1.0.0",
+  "description": "Link to figma: https://www.figma.com/file/tsdabU4qiNztxmFOQZKXeK?node-id=0-1&p=f&t=sNa51jCvp1KL45w0-0&type=design&mode=design&fuid=1161679639901203616",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonutCorpaci/virtual-headset-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IonutCorpaci/virtual-headset-project/issues"
+  },
+  "homepage": "https://github.com/IonutCorpaci/virtual-headset-project#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "normalize.css": "^8.0.1",
+    "postcss": "^8.5.6",
+    "sass": "^1.89.2",
+    "vite": "^7.0.5"
+  }
+}
